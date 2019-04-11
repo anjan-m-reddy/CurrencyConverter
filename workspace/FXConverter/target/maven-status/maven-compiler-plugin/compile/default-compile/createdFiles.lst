@@ -1,0 +1,6 @@
+com\anz\fx\util\FXConstants.class
+com\anz\fx\FXApplication.class
+com\anz\fx\exception\CurrencyMappingException.class
+com\anz\fx\config\ConfigReader.class
+com\anz\fx\dto\FxMatrixDto.class
+com\anz\fx\util\Converter.class
